@@ -93,5 +93,5 @@ const UpdatePlace = () => {
         </form>
     );
 };
-
+// email id change from snegi11@sapient.com to aaravbisht20022016@gamil.com
 export default UpdatePlace;
